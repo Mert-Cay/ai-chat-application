@@ -24,5 +24,17 @@ Bu proje, Google'ın **Gemini AI API'si** ve modern React teknolojileri kullanı
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 1. Projeyi klonlayın:
-   ```bash
+   ---bash
    git clone [https://github.com/Mert-Cay/ai-chat-application.git](https://github.com/Mert-Cay/ai-chat-application.git)
+
+ 2. Proje dizinine girin:
+  cd ai-chat-application
+
+ 3. Gerekli paketleri yükleyin:
+   npm install
+
+  4. Kritik Adım (.env ayarı): Projenin ana dizininde .env adında bir dosya oluşturun ve Google Gemini'den aldığınız API anahtarınızı aşağıdaki gibi ekleyin:
+   VITE_GEMINI_API_KEY=sizin_api_anahtariniz_buraya
+
+  5. Geliştirme sunucusunu başlatın:
+   npm run dev
