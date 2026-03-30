@@ -16,10 +16,3 @@ Bu proje, Google'ın **Gemini AI API'si** ve modern React teknolojileri kullanı
 * **Yapay Zeka Servisi:** Google Gemini API
 * **Stil & UI:** Custom CSS / Flexbox mimarisi
 
-## 📂 Kurulum ve Çalıştırma
-
-Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
-
-1. Projeyi klonlayın:
-   ```bash
-   git clone [https://github.com/Mert-Cay/ai-chat-application.git](https://github.com/Mert-Cay/ai-chat-application.git)
